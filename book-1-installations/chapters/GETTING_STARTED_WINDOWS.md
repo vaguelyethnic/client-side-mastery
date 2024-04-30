@@ -103,7 +103,7 @@ Once Windows Terminal is installed:
 <summary>
 mentors: Expand for help
 </summary>
-If you run into problems during installation, someone on the instruction team will use the following info to help you. You can ignore this section.
+If you run into problems during installation, someone on the coaching team will use the following info to help you. You can ignore this section.
 
 For reference, here's the [Microsoft Install WSL instructions](https://docs.microsoft.com/en-us/windows/wsl/install).
 
