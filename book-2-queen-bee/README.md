@@ -17,7 +17,7 @@ In this first book, you will learn the core, fundamental competencies and habits
 | 7   | [Paying Tribute](./chapters/QUEEN_TRIBUTE.md) <br/> <sub style="font-size:0.85rem;">#functions #arrays #objects</sub>              | [Just a Function](./chapters/SURF_FUNCTIONS_MODULE.md)             | [Visualizations for Björn](./chapters/BJORN_DIAGRAM.md)            |
 | 8   | [Show Tribute By Queen](./chapters/QUEEN_QUEEN_TRIBUTE.md) <br/> <sub style="font-size:0.85rem;">#debugger</sub>                   | [Diagrams: A Visual for Code](./chapters/SURF_DIAGRAM.md)          |                                                                    |
 
-Once you have completed all of the Core Projects, your job is to do a self-assessment. Click on the link below to see what this book's assessment instructions are. Once complete, reach out to an mentor to review your vocabulary.
+Once you have completed all of the Core Projects, your job is to do a self-assessment. Click on the link below to see what this book's assessment instructions are.
 
 | #   | 🎓 Self-Assessment  |
 | --- | ---- |
@@ -27,25 +27,11 @@ Once you have completed all of the Core Projects, your job is to do a self-asses
 
 These Explorer chapters are **optional** for learners who want to explore more advanced concepts beyond the core material.
 
-| #   | 👸🏽 Her Majesty                                    | 🏄🏾‍♂️ Surf Shop                                      | 🐻 Björn To Be Wild                                   |
-| --- | ------------------------------------------------- | ------------------------------------------------- | ----------------------------------------------------- |
+| #   | 👸🏽 Her Majesty  | 🏄🏾‍♂️ Surf Shop | 🐻 Björn To Be Wild |
+| --- | --- | --- | --- |
 | 1   | [Modular Majesty](./chapters/QUEEN_EC_MODULAR.md) | [Separate Reports](./chapters/SURF_EC_MODULAR.md) | [Modular Madness](./chapters/BJORN_MODULE_MADNESS.md) |
-| 2   | [Combined Data](./chapters/QUEEN_EC_DATABASE.md)  |                                                   | [Tours Consolidated](./chapters/BJORN_DATABASEmd)     |
-
-## 🏕 Pioneer Chapters
-
-Pioneer chapters are **optional** and let you develop Deep Learning on the concepts that you practiced in this book.
-
-| #   | 👸🏽 Her Majesty | 🏄🏾‍♂️ Surf Shop | 🐻 Björn To Be Wild |
-| --- | ----- | --- | --- |
-| 1   | [Finding Tribute](./chapters/QUEEN_EC_ARRAY_FIND.md) |              | [Filtering Tours](./chapters/BJORN_ARRAY_FIND.md) |
-
-## 👩‍👩‍👧‍👦 Team Collaboration Projects
-
-| #   | Projects                                      |
-| --- | --------------------------------------------- |
-| 1   | [Cheugy Crocs](./chapters/CHUEGY_CROCS.md)    |
-| 2   | [Link's Kitchen](./chapters/LINKS_KITCHEN.md) |
+| 2   | [Combined Data](./chapters/QUEEN_EC_DATABASE.md)  |  | [Tours Consolidated](./chapters/BJORN_DATABASEmd) |
+| 3   | [Finding Tribute](./chapters/QUEEN_EC_ARRAY_FIND.md) |  | [Filtering Tours](./chapters/BJORN_ARRAY_FIND.md) |
 
 ## 🔐 Group Project
 
@@ -54,3 +40,12 @@ When you have completed all of the core chapters, you will work on a group proje
 | #   | Project Name | Description |
 | --- | --- | --- |
 | 1   | [🐡 🍣 <br/> Fish Fusion](../projects/tier-1/fish-fusion/README.md) | In this project, you are going to build a purchasing pipeline for a bargain fish restaurant in your city. From sea to boat to monger to restaurant. |
+
+## 👩‍👩‍👧‍👦 Team Collaboration Projects
+
+These are projects that your team will dedicate ~1 hour per day to build collaboratively to enhance your learning while building the core projects.
+
+| #   | Projects                                      | Description |
+| --- | --------------------------------------------- | ----------- |
+| 1   | [Cheugy Crocs](./chapters/CHUEGY_CROCS.md)    | Your clumsy, and deluded, brother decided to take a stab at coding an app he needs to organize his croc collection. Can you untangle his mess? |
+| 2   | [Link's Kitchen](./chapters/LINKS_KITCHEN.md) | Help Link build his collection of recipes that he can use to cook the strange ingredients that he finds on his adventures. |
