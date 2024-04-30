@@ -14,9 +14,6 @@ sequenceDiagram
     participant MovieRenderer
     participant DOM
 
-    Main->>MovieConverter: Import movie converter
-    Main->>MovieRenderer: Import movie renderer
-
     Main->>MovieConverter: Convert movie data to HTML
     MovieConverter->>MovieData: Request movie data
     MovieData-->>MovieConverter: Return movie data
