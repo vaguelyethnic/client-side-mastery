@@ -1,4 +1,4 @@
-# Chapter 2: Creating the Movie Data
+# Creating the Movie Data
 
 In this chapter, we will create the movie data that will be used to generate the movie cards in our showcase. We'll store the movie data in a JavaScript file as an array of objects, where each object represents a movie with its properties.
 
@@ -45,6 +45,14 @@ In this code:
 - We define an array called `movies` that contains objects representing movies.
 - Each movie object has properties like `title`, `poster`, and `description`.
 - We export the `movies` array using the `export` keyword to make it available for use in other files.
+
+## Step 3: Add to Commit History
+
+Run `git add .` in your terminal to stage this new file to be committed.
+
+Run `git commit -m "Added database module"` to add to your commit history for this project.
+
+Then push your code to Github.
 
 ## Explanation
 

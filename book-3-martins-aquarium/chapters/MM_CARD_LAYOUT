@@ -1,4 +1,4 @@
-# Chapter 7: Arranging Movie Cards in a Grid Layout with CSS Flexbox
+# Arranging Movie Cards in a Grid Layout
 
 In this chapter, we will focus on arranging the movie cards in a grid layout using CSS Flexbox. By applying flexbox properties to the container element, we can create a responsive and visually appealing movie showcase that adapts to different screen sizes.
 
@@ -34,12 +34,20 @@ Let's break down the CSS code:
 Make sure the `layout.css` file is properly linked in the `index.html` file. Open the `index.html` file and ensure the following line is present in the `<head>` section:
 
 ```html
-<link rel="stylesheet" href="styles/layout.css">
+<link rel="stylesheet" href="./styles/layout.css">
 ```
 
 ## Step 4: Test the Grid Layout
 
 Save the `layout.css` file and refresh the `index.html` page in your web browser. You should now see the movie cards arranged in a grid layout, with equal spacing between them.
+
+## Step 5: Add to Commit History
+
+Run `git add .` in your terminal to stage this new file to be committed.
+
+Run `git commit -m "Added CSS module for Flexbox layout"` to add to your commit history for this project.
+
+Then push your code to Github.
 
 ## Explanation
 

@@ -1,6 +1,37 @@
-# Chapter 1: Setting Up the Project
+# Setting Up the Project
 
 In this chapter, we will set up the foundation for our movie collection project. We'll create the necessary files and directories, and implement a basic HTML structure to serve as the starting point for our movie showcase.
+
+## Project Algorithm
+
+This sequence diagram visualizes the algorithm of the project you are about to build.
+
+```mermaid
+sequenceDiagram
+    participant Main
+    participant MovieData
+    participant MovieConverter
+    participant MovieRenderer
+    participant DOM
+
+    Main->>MovieConverter: Import movie converter
+    Main->>MovieRenderer: Import movie renderer
+
+    Main->>MovieConverter: Convert movie data to HTML
+    MovieConverter->>MovieData: Request movie data
+    MovieData-->>MovieConverter: Return movie data
+    loop For each movie
+        MovieConverter->>MovieConverter: Convert movie to HTML
+        MovieConverter->>MovieConverter: Concatenate movie HTML
+    end
+    MovieConverter-->>Main: Return movie HTML
+
+    Main->>MovieRenderer: Render movie HTML
+    MovieRenderer->>DOM: Update DOM with movie HTML
+    DOM-->>MovieRenderer: Confirm rendering
+    MovieRenderer-->>Main: Confirm rendering complete
+```
+
 
 ## Step 1: Create Project Directory and Files
 
@@ -72,6 +103,17 @@ Let's break down the important parts of this HTML structure:
 Open the `index.html` file in a web browser to ensure that the basic structure is displayed correctly. You should see the page title, header, and footer.
 
 At this point, our movie showcase page is still empty, but we have set up the necessary files and structure to build upon in the upcoming chapters.
+
+## Step 4: Initialize Repository and First Commit
+
+1. Make a new repository named `dynamite-duo` on Github.
+2. In your project directory, run `git init` to create the local repository.
+3. Run `git add .` to stage the files.
+4. Run `git commit -m "Initial commit"` to commit the initial version of all of your files to the commit history.
+5. Get the SSH URL of your Github repository and run `git remote add origin ssh_url` and replace `ssh_url` with what you copied from Github.
+6. Push your code to Github with `git push -u origin main`.
+
+
 
 ## Explanation
 

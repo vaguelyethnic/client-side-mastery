@@ -1,4 +1,4 @@
-# Chapter 5: Bringing It All Together in the Main Module
+# Bringing It All Together in the Main Module
 
 In this chapter, we will create the main JavaScript module that orchestrates the movie card generation and rendering process. This module will import the necessary modules, generate the movie cards HTML, and render them to the DOM.
 
@@ -42,6 +42,14 @@ This line calls the `renderMoviesToDOM` function, passing the `movieHTML` as an 
 1. In the project directory, run the `serve` command
 2. Open the URL is provides in your browser _(this is usually http://lcoalhost:3000)_
 3. You should see the movie cards displayed on the webpage, with the movie posters, titles, and descriptions.
+
+## Step 6: Add to Commit History
+
+Run `git add .` in your terminal to stage this new file to be committed.
+
+Run `git commit -m "Implemented main algorithm in main module"` to add to your commit history for this project.
+
+Then push your code to Github.
 
 ## Explanation
 

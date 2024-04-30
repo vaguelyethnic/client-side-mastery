@@ -1,6 +1,10 @@
-# Chapter 3: Converting Movie Data to HTML
+# Converting Movie Data to HTML
 
 In this chapter, we will create a JavaScript module that converts the movie data into HTML markup. This module will generate the necessary HTML structure for each movie card based on the movie data imported from the `movies-data.js` file.
+
+> 📖 Vocabulary: Serialization
+>
+> Serialization refers to the process of converting an object or data structure into a format that can be stored, transmitted, or reconstructed later. In this project, the JavaScript objects representing the movie data are being converted into an HTML string format. This process of converting the movie objects to HTML is a form of serialization.
 
 ## Step 1: Create the `movie-converter.js` Module
 
@@ -56,6 +60,14 @@ Let's break down the code:
 ## Step 4: Export the HTML Generation Function
 
 To make the `generateMoviesHTML` function accessible from other modules, we export it using the `export` keyword.
+
+## Step 5: Add to Commit History
+
+Run `git add .` in your terminal to stage this new file to be committed.
+
+Run `git commit -m "Added HTML generation module"` to add to your commit history for this project.
+
+Then push your code to Github.
 
 ## Explanation
 

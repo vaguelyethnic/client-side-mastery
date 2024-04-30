@@ -10,4 +10,4 @@ http://shibe.online/api/cats?count=1&urls=true&httpsUrls=false
 
 Watch a video on how the response data is slightly different from the previous chapter and update the DOM correctly.
 
-[<img src="../../book-0-installations/chapters/images/video-play-icon.gif" height="75rem" />](https://watch.screencastify.com/v/Mp97KD1JvCnk7JsgJiwe)
+[<img src="../../book-1-installations/chapters/images/video-play-icon.gif" height="75rem" />](https://watch.screencastify.com/v/Mp97KD1JvCnk7JsgJiwe)

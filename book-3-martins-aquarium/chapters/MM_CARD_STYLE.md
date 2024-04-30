@@ -1,4 +1,4 @@
-# Chapter 6: Styling the Movie Cards with CSS
+# Styling the Movie Cards with CSS
 
 In this chapter, we will focus on styling the movie cards using CSS to create an attractive and visually appealing layout. We will define styles for the movie cards, including the movie poster, title, and description, to enhance the overall presentation of our movie showcase.
 
@@ -91,6 +91,14 @@ Let's break down the CSS code:
 ## Step 3: Test the Styling
 
 Save the `main.css` file and refresh the page in your web browser. You should now see the movie cards styled with the defined CSS, creating a visually appealing style for each one.
+
+## Step 4: Add to Commit History
+
+Run `git add .` in your terminal to stage this new file to be committed.
+
+Run `git commit -m "Added main CSS module and initial styles"` to add to your commit history for this project.
+
+Then push your code to Github.
 
 ## Explanation
 
