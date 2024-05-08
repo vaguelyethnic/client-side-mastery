@@ -13,14 +13,15 @@ In this first book, you will learn the core, fundamental competencies and habits
 | 3   | [Watching Your Code Run](./chapters/QUEEN_DEBUGGER.md) <br/> <sub style="font-size:0.85rem;">#debugger</sub>                       | [Constant Tide](./chapters/SURF_CONST.md)                          | [Trail Tour Prices](./chapters/BJORN_PRICE_RANGES.md)              |
 | 4   | [Bug Queen](./chapters/QUEEN_ERRORS.md) <br/> <sub style="font-size:0.85rem;">#errors</sub>                                        | [Wave Function](./chapters/SURF_NOT_A_FUNCTION.md)                 | [River Tour Breakdown](./chapters/BJORN_RIVER_PRICE_RANGES.md)     |
 | 5   | [Queen Colony](./chapters/QUEEN_COLLECTION.md) <br/> <sub style="font-size:0.85rem;">#functions #arrays #objects #parameters</sub> | [Lost at Sea](./chapters/SURF_ARRAY_PROPERTIES.md)                 | [Tour Details](./chapters/BJORN_TOUR_DETAILS.md)                   |
-| 6   | [Iterating the Queens](./chapters/QUEEN_ITERATION.md) <br/> <sub style="font-size:0.85rem;">#iteration</sub>                       | [Just the Data](./chapters/SURF_DATA_MODULE.md)                    | [Presentation to Björn](./chapters/BJORN_CLEANUP.md)               |
-| 7   | [Paying Tribute](./chapters/QUEEN_TRIBUTE.md) <br/> <sub style="font-size:0.85rem;">#functions #arrays #objects</sub>              | [Just a Function](./chapters/SURF_FUNCTIONS_MODULE.md)             | [Visualizations for Björn](./chapters/BJORN_DIAGRAM.md)            |
-| 8   | [Show Tribute By Queen](./chapters/QUEEN_QUEEN_TRIBUTE.md) <br/> <sub style="font-size:0.85rem;">#debugger</sub>                   | [Diagrams: A Visual for Code](./chapters/SURF_DIAGRAM.md)          |                                                                    |
+| 6   | [Iterating the Queens](./chapters/QUEEN_ITERATION.md) <br/> <sub style="font-size:0.85rem;">#iteration</sub> | [Just the Data](./chapters/SURF_DATA_MODULE.md) | [Presentation to Björn](./chapters/BJORN_CLEANUP.md) |
+| 7   | [Paying Tribute](./chapters/QUEEN_TRIBUTE.md) <br/> <sub style="font-size:0.85rem;">#functions #arrays #objects</sub> | [Just a Function](./chapters/SURF_FUNCTIONS_MODULE.md) | [Visualizations for Björn](./chapters/BJORN_DIAGRAM.md) |
+| 8   | [Show Tribute By Queen](./chapters/QUEEN_QUEEN_TRIBUTE.md) <br/> <sub style="font-size:0.85rem;">#debugger</sub> | [Diagrams: A Visual for Code](./chapters/SURF_DIAGRAM.md) |  |
 
 Once you have completed all of the Core Projects, your job is to do a self-assessment. Click on the link below to see what this book's assessment instructions are.
 
 | #   | 🎓 Self-Assessment  |
 | --- | ---- |
+| -   | [Watch how to create Loom videos](./chapters/TBD.md) to submit with your completed self-assessment |
 | 1   | [Self-Assess Your Debugging Skills](./chapters/DEBUGGER_ASSESSMENT.md) |
 
 ## 🧭 Explorer Chapters
