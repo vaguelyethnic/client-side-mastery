@@ -21,7 +21,7 @@ Once you have completed all of the Core Projects, your job is to do a self-asses
 
 | #   | 🎓 Self-Assessment  |
 | --- | ---- |
-| -   | [Watch how to create Loom videos](./chapters/TBD.md) to submit with your completed self-assessment |
+| -   | <a href="https://app.screencastify.com/v3/watch/NlYEfYdSHJrwFeB0GQqN" target="_blank">Watch how to create Loom videos</a> to submit with your completed self-assessment |
 | 1   | [Self-Assess Your Debugging Skills](./chapters/DEBUGGER_ASSESSMENT.md) |
 
 ## 🧭 Explorer Chapters
