@@ -2,7 +2,7 @@
 
 In this book, you will learn how to build your first dynamic web page with HTML, CSS, and JavaScript. You will also start backing up your code consistently to Github.
 
-> Historical average time to complete this book is 4 days with an additional 3 days for the group project.
+> You have 5 days to complete the core chapters. Then you will spend 3 days doing the group project.
 
 ## Core Projects
 

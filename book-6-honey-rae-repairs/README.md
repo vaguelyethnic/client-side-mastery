@@ -1,7 +1,7 @@
 # Book 5 - Honey Rae's Repair Shop
 It is very important that you work on the concepts in this book in the segments that are suggested.
-Move top to bottom, left to right.
 
+Move top to bottom, left to right.
 
 Here's how that looks
 
@@ -10,6 +10,8 @@ Here's how that looks
 3. Review your vocabulary and discuss your questions with peers and mentors.
 4. Move on to chapter 6 in Honey Rae Repairs.
 5. etc...
+
+> You have 10 days to complete the core chapters. Then you will spend 5 days doing the group project.
 
 ## Core Projects
 ### Part 1

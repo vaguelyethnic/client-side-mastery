@@ -7,7 +7,7 @@ In this book, you will be introduced to three concepts.
 2. Radio button groups and dropdowns _(a.k.a. `<select>` elements)_
 3. Array methods of `map()`, `find()`, and `filter()`.
 
-> Historical average time to complete this book is 9 days with an additional 4 days for the group project.
+> You have 6 days to complete the core chapters. Then you will spend 5 days doing the group project.
 
 ## Core Projects
 
