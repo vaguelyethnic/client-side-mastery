@@ -56,13 +56,12 @@ Here's how that looks
 
 Explorer chapters give you the opportunity to expand on the Core chapters and the concepts in the book without any guidance or boilerplate code.
 
-| # | 🍯 💻 Honey Rae's Repairs | 💡💬 Learning Moments |
-|--|--|--|
-| 1 | useContext | [CSS Libraries](./chapters/EXPLORE_CSS.md) |
+| # | 🌩️ Deploying your projects to the cloud |
+|--|--|
 | 2 |  Learn how to [deploy your API to Digital Ocean](./chapters/CLOUD_DIGITAL_OCEAN_JSON.md) for free |
 | 3 | Learn how to [deploy your client to Digital Ocean](./chapters/CLOUD_DIGITAL_OCEAN_STATIC.md) for free |
 
-## 🔐 Projects Unlocked
+## 🔐 Group
 
 | # | Project&nbsp;Name | Description |
 |--|--|--|
