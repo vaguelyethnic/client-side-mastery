@@ -30,12 +30,3 @@ When you have completed all of the core chapters, you will work on a group proje
 | #   | Project Name | Description |
 | --- | --- | --- |
 | 1   | [🚜<br/>Modern Farm](../projects/tier-1/modern-farm/README.md) | In this group project, your team is going to build an application that simulates the process of planning, planting, harvesting and selling crops for a modern farming operation. |
-
-## 👩‍👩‍👧‍👦 Team Collaboration Projects
-
-These are projects that your team will dedicate ~1 hour per day to build collaboratively to enhance your learning while building the core projects.
-
-| #   | Projects                                      | Description |
-| --- | --------------------------------------------- | ----------- |
-| 1   | <a href="https://github.com/nss-group-projects/MachoMoods" target="_blank">Macho Moods</a>    | Randy "Macho Man" Savage, has taken an interest in mental health. Can you help him deliver his inspiring messages of healthy life strategies? |
-| 1   | <a href="https://github.com/nss-group-projects/Pikodex" target="_blank">Pokidex</a>    | The creators of Pikomon are really hurting for fans, so they need all the help they can get. You’ve been hired to build an online Pikodex for a new adventure, battle cartoon. |

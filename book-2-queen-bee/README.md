@@ -41,12 +41,3 @@ When you have completed all of the core chapters, you will work on a group proje
 | #   | Project Name | Description |
 | --- | --- | --- |
 | 1   | [🐡 🍣 <br/> Fish Fusion](../projects/tier-1/fish-fusion/README.md) | In this project, you are going to build a purchasing pipeline for a bargain fish restaurant in your city. From sea to boat to monger to restaurant. |
-
-## 👩‍👩‍👧‍👦 Team Collaboration Projects
-
-These are projects that your team will dedicate ~1 hour per day to build collaboratively to enhance your learning while building the core projects.
-
-| #   | Projects                                      | Description |
-| --- | --------------------------------------------- | ----------- |
-| 1   | [Cheugy Crocs](./chapters/CHUEGY_CROCS.md)    | Your clumsy, and deluded, brother decided to take a stab at coding an app he needs to organize his croc collection. Can you untangle his mess? |
-| 2   | [Link's Kitchen](./chapters/LINKS_KITCHEN.md) | Help Link build his collection of recipes that he can use to cook the strange ingredients that he finds on his adventures. |
