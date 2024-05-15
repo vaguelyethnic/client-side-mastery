@@ -28,5 +28,5 @@ These Explorer chapters are **optional** for teams who want to explore more adva
 
 | #   | 🐡 Fish Fusion 🍣 |
 |---|---|
-| 1   | [Introducting to Automated Testing](./chapters/VEGGISH_TESTS.md) |
+| 1   | [Introduction to Automated Testing](./chapters/VEGGISH_TESTS.md) |
 | 2   | [Conversion With Map Array Method](./chapters/VEGGISH_MAP_METHOD.md) |
