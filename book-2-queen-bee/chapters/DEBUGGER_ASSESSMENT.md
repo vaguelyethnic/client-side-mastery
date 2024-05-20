@@ -53,11 +53,11 @@ cd bug-wrangler-ranch
 code .
 ```
 
-Open the `main.js` and create your `launch.json` so that you can debug the code starting with `main.js`. Then run the program and start the investigation.
+Open the `main.js` and create your `launch.json` so that you can debug the code starting with `main.js`. Then run the program and start the investigation by using your debugger and running the code.
 
 ## Example Output
 
-If you are able to fix all of the bugs, you will output similar to what is below.
+If you are able to fix all of the bugs, when you run the program, you should see output that is similiar to what is below in your terminal.
 
 ```sh
 ************************************************
